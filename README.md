@@ -36,7 +36,7 @@ For any further details on this project you can see the documentation above.
 - run **``` pip install -r requirements.txt```** inside \Attendance-System-Using-Face-Recognition directory
 - Run **``` python manage.py runserver ```** inside \Attendance-System-Using-Face-Recognition directory to run the project
 - To view the admin dashboard use username as "admin" and password as "admin"
-- To view the employee dashboard either register a new user through the admin portal or use username as "SaritaK" and password as "Chittaranjan@2426"
+- To view the employee dashboard either register a new user through the admin portal or use username as "Palakuser" and password as "Palakuser@123#"
 - Enjoy !
 
 
@@ -62,4 +62,3 @@ For any further details on this project you can see the documentation above.
  Palak Bhogra(https://github.com/palak2002)
 =======
 # projectfacegenix
->>>>>>> 31cc5ffebdbba35776db4a90a42390d1f1b1e42f
