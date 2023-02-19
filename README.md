@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![Project Logo](https://github.com/ARCHISA26022002/FaceGenix/blob/main/UI%20(SCREENSHOTS)/Cover.jpg)
 
 ## Attendance Management Application Using Face Recognition 
