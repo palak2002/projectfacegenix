@@ -59,7 +59,7 @@ For any further details on this project you can see the documentation above.
 
 
 ## Thank You
- [Archisa Kumar](https://github.com/ARCHISA26022002)
+ Palak Bhogra(https://github.com/palak2002)
 =======
 # projectfacegenix
 >>>>>>> 31cc5ffebdbba35776db4a90a42390d1f1b1e42f
